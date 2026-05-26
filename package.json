@@ -1,0 +1,22 @@
+{
+  "name": "skills-create-applications-with-the-copilot-cli",
+  "version": "1.0.0",
+  "description": "A Node.js CLI calculator for basic arithmetic operations.",
+  "main": "src/calculator.js",
+  "bin": {
+    "calculator": "./src/calculator.js"
+  },
+  "scripts": {
+    "start": "node src/calculator.js",
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  },
+  "keywords": [
+    "calculator",
+    "cli",
+    "nodejs"
+  ],
+  "license": "MIT"
+}
