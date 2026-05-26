@@ -11,15 +11,12 @@
     "test": "jest --runInBand"
   },
   "devDependencies": {
-    "jest": "^30.0.5"
+    "jest": "^30.4.2"
   },
   "keywords": [
     "calculator",
     "cli",
     "nodejs"
   ],
-  "license": "MIT",
-  "devDependencies": {
-    "jest": "^30.4.2"
-  }
+  "license": "MIT"
 }
